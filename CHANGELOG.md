@@ -2,6 +2,9 @@
 Notable changes to Painting With Light will be documented in this file.
 
 ## [Unreleased]
+### Added
+- NDI stream input support
+
 ### Changed
 - Rewrote the video playback code from scratch for better performance
 - Fixed timing and structure in video output
