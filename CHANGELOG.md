@@ -2,6 +2,8 @@
 Notable changes to Painting With Light will be documented in this file.
 
 ## [Unreleased]
+
+## [2.0.1] - 2022-09-18
 ### Added
 - NDI stream input support
 - Grid plugin for selecting sub-sections of textures
